@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">PracticaT7</string>
+    <string name="titlInformacion">Información</string>
+    <string name="txtNombre">Nombre:</string>
+    <string name="txtCategoria">Categoría:</string>
+    <string name="txtLongitud">Longitud:</string>
+    <string name="txtLatitud">Latitud:</string>
+    <string name="txtValoracion">Valoración:</string>
+    <string name="txtComentarios">Comentarios:</string>
 </resources>
