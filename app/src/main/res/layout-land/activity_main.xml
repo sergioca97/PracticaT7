@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="15dp"
+    tools:context=".MainActivity">
+
+    <Spinner
+        android:id="@+id/spCategorias"
+        android:layout_width="wrap_content"
+        android:layout_height="40dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginStart="0dp"
+        android:layout_marginLeft="0dp"
+        android:layout_marginEnd="80dp"
+        android:layout_marginRight="70dp" />
+
+
+    <ImageView
+        android:id="@+id/imgMapa"
+        android:layout_width="48dp"
+        android:layout_height="40dp"
+        android:layout_alignEnd="@+id/spCategorias"
+        android:layout_alignRight="@+id/spCategorias"
+        android:layout_alignParentTop="true"
+
+        android:layout_alignParentRight="true"
+        app:srcCompat="@android:drawable/star_big_on" />
+
+    <ListView
+        android:id="@+id/listTarjetas"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="40dp"
+        android:divider="@null"
+        android:dividerHeight="10dp" />
+
+    <android.support.design.widget.FloatingActionButton
+        android:id="@+id/floatingActionButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="16dp"
+        android:clickable="true"
+        android:focusable="true"
+        android:onClick="clicNuevo"
+        android:src="@android:drawable/ic_menu_add"
+        app:elevation="6dp"
+        app:pressedTranslationZ="12dp"/>
+</RelativeLayout>
