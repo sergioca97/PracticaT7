@@ -24,8 +24,8 @@
     <string name="confirmareliminar">¿Seguro que quieres eliminar la información?</string>
     <string name="Eliminar">Eliminar</string>
     <string name="Cancelar">Cancelar</string>
-    <string name="conexionAceptada">Okey</string>
-    <string name="conexionErronea">No</string>
+    <string name="conexionAceptada" translatable="false">Okey</string>
+    <string name="conexionErronea" translatable="false">No</string>
     <string name="requerirPermisos">Se necesitan permisos para ejecutar la aplicación</string>
     <string name="GpsDesactivado">El GPS se encuentra desactivado.</string>
     <string name="GpsActivar">¿Desea activar el GPS en la aplicación?</string>

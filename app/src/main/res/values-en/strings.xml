@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My favourite places</string>
+    <string name="titlInformacion">Information</string>
+    <string name="txtNombre">First name:</string>
+    <string name="txtCategoria">Category:</string>
+    <string name="txtLongitud">Length:</string>
+    <string name="txtLatitud">Latitude:</string>
+    <string name="txtValoracion">Assessment:</string>
+    <string name="txtComentarios">Comments:</string>
+    <string name="title_activity_pantalla_mapa">Map</string>
+    <string name="Farmacias">Pharmacies</string>
+    <string name="CentrosComerciales">Malls</string>
+    <string name="Bares">pubs</string>
+    <string name="Aeropuertos">Airports</string>
+    <string name="Restaurantes">Restaurants</string>
+    <string name="TodaslasCategorias">All Categories</string>
+    <string name="Guardar">Save</string>
+    <string name="Editar">Edit</string>
+    <string name="Borrar">Delete</string>
+    <string name="toastEliminar">Removed</string>
+    <string name="toastEditar">Properly Edited</string>
+    <string name="toastCrear">Created correctly</string>
+    <string name="eliminarInformacion">Information is going to be eliminated</string>
+    <string name="confirmareliminar">Are you sure you want to delete the information?</string>
+    <string name="Eliminar">Remove</string>
+    <string name="Cancelar">Cancel</string>
+    <string name="requerirPermisos">Permissions are needed to run the application</string>
+    <string name="GpsDesactivado">The GPS is deactivated.</string>
+    <string name="GpsActivar">Do you want to activate the GPS in the application?</string>
+</resources>
