@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">PracticaT7</string>
+    <string name="app_name">Mis lugares favoritos</string>
     <string name="titlInformacion">Información</string>
     <string name="txtNombre">Nombre:</string>
     <string name="txtCategoria">Categoría:</string>
@@ -7,4 +7,26 @@
     <string name="txtLatitud">Latitud:</string>
     <string name="txtValoracion">Valoración:</string>
     <string name="txtComentarios">Comentarios:</string>
+    <string name="title_activity_pantalla_mapa">Map</string>
+    <string name="Farmacias">Farmacias</string>
+    <string name="CentrosComerciales">Centros Comerciales</string>
+    <string name="Bares">Bares</string>
+    <string name="Aeropuertos">Aeropuertos</string>
+    <string name="Restaurantes">Restaurantes</string>
+    <string name="TodaslasCategorias">Todas las Categorias</string>
+    <string name="Guardar">Guardar</string>
+    <string name="Editar">Editar</string>
+    <string name="Borrar">Borrar</string>
+    <string name="toastEliminar">Eliminado</string>
+    <string name="toastEditar">Editado Correctamente</string>
+    <string name="toastCrear">Creado Correctamente</string>
+    <string name="eliminarInformacion">Información va a ser eliminada</string>
+    <string name="confirmareliminar">¿Seguro que quieres eliminar la información?</string>
+    <string name="Eliminar">Eliminar</string>
+    <string name="Cancelar">Cancelar</string>
+    <string name="conexionAceptada">Okey</string>
+    <string name="conexionErronea">No</string>
+    <string name="requerirPermisos">Se necesitan permisos para ejecutar la aplicación</string>
+    <string name="GpsDesactivado">El GPS se encuentra desactivado.</string>
+    <string name="GpsActivar">¿Desea activar el GPS en la aplicación?</string>
 </resources>
